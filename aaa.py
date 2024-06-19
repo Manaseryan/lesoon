@@ -21,16 +21,3 @@
 # print(d2)
 # import time
 # list1=[]
-# def decorator(func):
-#     def inner():
-#         t=time.time()
-#         func()
-#         t1=time.time()
-#         print(t1 - t)
-#     return inner
-# @decorator
-# def fanction():
-#     for i in range(100000):
-#        list1.append(i)
-#     return
-# fanction()
